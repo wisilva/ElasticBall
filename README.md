@@ -16,4 +16,4 @@ Acceleration can be affected using the slider. Moving it to the left will cause 
 cause positive acceleration.
 
 If a moving ball touches an unmoved ball or a ball that is currently being held, the moving ball will bounce in the opposite direction
-(both X and Y speeds will reverse). This is a very simple collision.
+(both X and Y speeds will reverse). This is a very simple collision that is only realistic looking in certain cases.
